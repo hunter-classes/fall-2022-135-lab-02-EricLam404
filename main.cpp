@@ -12,4 +12,5 @@ int main(){
   print_interval(-10,10);
   std::cout << "\n";
   
+  return 0;
 }
